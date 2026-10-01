@@ -1,10 +1,15 @@
 {
   "schemaVersion": 1,
-  "rulesVersion": "2026.10.01.1",
-  "publishedAt": "2026-10-01T03:43:02.3911376+00:00",
-  "minimumAppVersion": "1.0.3",
+  "rulesVersion": "2026.10.01.2",
+  "publishedAt": "2026-10-01T07:02:56.7436792+00:00",
+  "minimumAppVersion": "1.0.4",
   "vectorizerId": "char-ngram-v1-d512",
   "files": [
+    {
+      "name": "brand-claim-rules.csv",
+      "sha256": "e163b7f9ed5e656cf205aaa88eceda08d054bed3469eb36d961c1f53a21537e5",
+      "size": 5055
+    },
     {
       "name": "official-brands.csv",
       "sha256": "3a443b56591348b25c909e9db262a88e4dd661ff17bd6660d5651dd3e0ce7670",
