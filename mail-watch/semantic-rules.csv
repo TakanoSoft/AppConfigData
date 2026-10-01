@@ -1,0 +1,25 @@
+ID,val,category,text,brand_id,min_similarity,require_domain_mismatch,source_url,verified_on
+S001,10,credential,アカウントの利用を停止しました本人確認のためログインしてください,,0.68,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S002,10,credential,不正アクセスを検知しましたパスワードを再設定してください,,0.68,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S003,9,credential,セキュリティ確認のため認証コードを入力してください,,0.67,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S004,10,urgency,本日中に確認しない場合アカウントが凍結されます,,0.69,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S005,9,urgency,至急お手続きください期限までに対応が必要です,,0.68,false,https://www.antiphishing.jp/report/guideline/antiphishing_guideline2026.html,2026-10-01
+S006,12,payment,未払い料金があります直ちに支払い方法を更新してください,,0.68,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S007,12,payment,当選しました受け取りのため手数料を支払ってください,,0.68,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S008,14,bank-change,振込先口座が変更になりました新しい口座へ送金してください,,0.66,false,https://www.antiphishing.jp/report/guideline/antiphishing_guideline2026.html,2026-10-01
+S009,14,executive,社長からの極秘依頼です誰にも言わず至急送金してください,,0.66,false,https://www.antiphishing.jp/report/guideline/antiphishing_guideline2026.html,2026-10-01
+S010,9,delivery,お荷物をお届けできませんでした再配達の手続きをしてください,,0.69,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S011,9,tax-refund,税金の還付があります受取口座を登録してください,,0.68,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S012,8,communication,確認のためLINEを追加して担当者へ連絡してください,,0.68,false,https://www.antiphishing.jp/report/guideline/antiphishing_guideline2026.html,2026-10-01
+S013,8,qr,QRコードを読み取りログインして本人確認を完了してください,,0.67,false,https://www.ipa.go.jp/security/anshin/attention/2021/mgdayori20210921.html,2026-10-01
+S014,16,brand-mismatch,オリコカードお客さま情報の確認をお願いいたします,orico,0.60,true,https://www.orico.co.jp/support/careful/trouble_online/,2026-10-01
+S015,15,brand-mismatch,eオリコ本人確認が完了していないためカードを停止します,orico,0.60,true,https://www.orico.co.jp/support/careful/trouble_online/,2026-10-01
+S016,13,brand-mismatch,楽天カードご利用確認のお願いカードの利用を制限しました,rakuten-card,0.62,true,https://www.rakuten-card.co.jp/security/security-info/,2026-10-01
+S017,13,brand-mismatch,Amazonアカウントのお支払い方法を更新してください,amazon-jp,0.62,true,https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=G4YFYCCNUSENA23B,2026-10-01
+S018,13,brand-mismatch,Microsoftアカウントで異常なサインインが検出されました,microsoft,0.62,true,https://support.microsoft.com/ja-jp/account-billing/microsoft-%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AE%E4%BF%9D%E8%AD%B7%E3%81%AB%E5%BD%B9%E7%AB%8B%E3%81%A4%E4%B8%8D%E6%AD%A3%E8%A1%8C%E7%82%BA%E9%98%B2%E6%AD%A2%E3%81%AE%E3%83%92%E3%83%B3%E3%83%88-2f3d7e03-7ab4-4738-a38d-4aaae8a1f632,2026-10-01
+S019,13,brand-mismatch,Apple IDがロックされましたアカウントを確認してください,apple,0.62,true,https://support.apple.com/ja-jp/102568,2026-10-01
+S020,13,brand-mismatch,PayPalアカウントの利用を一時的に制限しました,paypal,0.62,true,https://www.paypal.com/jp/security/learn-about-scams,2026-10-01
+S021,14,brand-mismatch,三菱UFJ銀行インターネットバンキングの利用を停止しました,mufg-bank,0.62,true,https://www.bk.mufg.jp/info/mail/mail.html,2026-10-01
+S022,10,subscription,サブスクリプションの更新に失敗しました支払い情報を確認してください,,0.68,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
+S023,10,mailbox,メールボックスの容量が上限に達しました認証して容量を拡張してください,,0.67,false,https://www.ipa.go.jp/security/anshin/attention/2021/mgdayori20210921.html,2026-10-01
+S024,11,invoice,請求書を添付しました内容を確認して指定口座へ振り込んでください,,0.68,false,https://www.antiphishing.jp/report/guideline/antiphishing_guideline2026.html,2026-10-01

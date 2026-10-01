@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "rulesVersion": "2026.10.01.1",
+  "publishedAt": "2026-10-01T03:43:02.3911376+00:00",
+  "minimumAppVersion": "1.0.3",
+  "vectorizerId": "char-ngram-v1-d512",
+  "files": [
+    {
+      "name": "official-brands.csv",
+      "sha256": "3a443b56591348b25c909e9db262a88e4dd661ff17bd6660d5651dd3e0ce7670",
+      "size": 16822
+    },
+    {
+      "name": "semantic-rules.csv",
+      "sha256": "b21f54593831e0e07d3d573c0ece01ddafdaef0cdaf5abd9423dfb00bdc73ef0",
+      "size": 4889
+    },
+    {
+      "name": "semantic-vectors.bin",
+      "sha256": "3ec018f51062d6d855aea50d77edda25fff791a674bd0c29778c58b221d8764b",
+      "size": 49386
+    }
+  ]
+}

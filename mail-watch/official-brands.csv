@@ -1,0 +1,101 @@
+ID,val,key,param_a,mail_domains,web_domains,category,strict,never_sent,source_urls,verified_on
+1,34,microsoft,Microsoft|マイクロソフト|Microsoft 365|Office 365|Outlook,microsoft.com|microsoftsupport.com|accountprotection.microsoft.com|email.microsoft.com,microsoft.com|microsoftonline.com|office.com|live.com,cloud,true,,https://learn.microsoft.com/en-us/troubleshoot/azure/general/email-domains-support-agent,2026-09-30
+2,34,google,Google|グーグル|Googleアカウント|Google Account,google.com,google.com|google.co.jp,cloud,true,,https://support.google.com/mail/answer/8253?hl=ja,2026-09-30
+3,34,amazon-jp,Amazon.co.jp|Amazon|アマゾン|Amazon Pay,amazon.co.jp|amazon.jp|amazon.com|amazonbusiness.jp|email.amazon.com,amazon.co.jp|amazon.jp|amazon.com|amazonbusiness.jp,ecommerce,true,,https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=G4YFYCCNUSENA23B,2026-09-30
+4,34,apple,Apple|アップル|Apple ID|Apple Account,apple.com,apple.com|icloud.com,cloud,true,,https://support.apple.com/ja-jp/102568,2026-09-30
+5,45,paypal,PayPal|ペイパル,paypal.com,paypal.com,payment,true,,https://www.paypal.com/jp/security/learn-about-scams,2026-09-30
+6,45,rakuten-card,楽天カード|Rakuten Card,mail.rakuten-card.co.jp|mkrm.rakuten.co.jp|bounce.rakuten-card.co.jp,rakuten-card.co.jp|rakuten.co.jp,credit-card,true,,https://www.rakuten-card.co.jp/security/security-info/,2026-09-30
+7,45,mufg-bank,三菱UFJ銀行|三菱ＵＦＪ銀行|MUFG Bank|三菱UFJダイレクト,mufg.jp|cr.mufg.jp|debit.bk.mufg.jp|mail-jcn.dnp-cdms.jp,mufg.jp|bk.mufg.jp|debit.bk.mufg.jp,bank,true,,https://www.bk.mufg.jp/info/mail/mail.html,2026-09-30
+8,45,smbc-bank,三井住友銀行|SMBC|SMBCダイレクト,smbc.co.jp,smbc.co.jp,bank,true,,https://www.smbc.co.jp/security/phishing/,2026-09-30
+9,45,japan-post-bank,ゆうちょ銀行|ゆうちょダイレクト|JP BANK,jp-bank.japanpost.jp|toushin-mail.jp-bank.japanpost.jp,jp-bank.japanpost.jp,bank,true,,https://www.jp-bank.japanpost.jp/crime/security/crm_sc_maillist.html,2026-09-30
+10,34,yamato-transport,ヤマト運輸|クロネコヤマト|宅急便,kuronekoyamato.co.jp,kuronekoyamato.co.jp,delivery,true,,https://www.kuronekoyamato.co.jp/ytc/info/info_250826_1.html,2026-09-30
+11,34,sagawa-express,佐川急便|SAGAWA|スマートクラブ,sagawa-exp.co.jp|ds.sagawa-exp.co.jp,sagawa-exp.co.jp,delivery,true,,https://www.sagawa-exp.co.jp/customer/receive/mail/,2026-09-30
+12,45,mizuho-bank,みずほ銀行|みずほダイレクト|Mizuho Bank,mizuhobank.co.jp,mizuhobank.co.jp,bank,false,,https://www.mizuhobank.co.jp/security/index.html,2026-09-30
+13,45,resona-bank,りそな銀行|りそなグループ|マイゲート|Resona Bank,resonabank.co.jp,resonabank.co.jp,bank,false,,https://www.resonabank.co.jp/kojin/security/,2026-09-30
+14,45,sbi-shinsei-bank,SBI新生銀行|新生銀行|SBI Shinsei Bank,sbishinseibank.co.jp,sbishinseibank.co.jp,bank,false,,https://www.sbishinseibank.co.jp/security/,2026-09-30
+15,45,sony-bank,ソニー銀行|Sony Bank|MONEYKit|マネーキット,sonybank.net|moneykit.net,moneykit.net|sonybank.jp,bank,false,,https://moneykit.net/visitor/security/,2026-09-30
+16,45,rakuten-bank,楽天銀行|Rakuten Bank,rakuten-bank.co.jp,rakuten-bank.co.jp,bank,false,,https://www.rakuten-bank.co.jp/security/,2026-09-30
+17,45,paypay-bank,PayPay銀行|ジャパンネット銀行|PayPay Bank,paypay-bank.co.jp,paypay-bank.co.jp,bank,false,,https://www.paypay-bank.co.jp/security/,2026-09-30
+18,45,au-jibun-bank,auじぶん銀行|じぶん銀行,jibunbank.co.jp,jibunbank.co.jp,bank,false,,https://www.jibunbank.co.jp/security/,2026-09-30
+19,45,sumishin-sbi-bank,住信SBIネット銀行|NEOBANK|ネオバンク,netbk.co.jp,netbk.co.jp,bank,false,,https://www.netbk.co.jp/contents/security/,2026-09-30
+20,45,seven-bank,セブン銀行|Seven Bank,sevenbank.co.jp,sevenbank.co.jp,bank,false,,https://www.sevenbank.co.jp/personal/security/,2026-09-30
+21,45,aeon-bank,イオン銀行|AEON BANK,aeonbank.co.jp,aeonbank.co.jp,bank,false,,https://www.aeonbank.co.jp/security/,2026-09-30
+22,45,gmo-aozora-bank,GMOあおぞらネット銀行|GMO Aozora Net Bank,gmo-aozora.com,gmo-aozora.com,bank,false,,https://gmo-aozora.com/security/,2026-09-30
+23,45,shizuoka-bank,静岡銀行|しずぎん|SHIZUGIN,shizuokabank.co.jp,shizuokabank.co.jp,bank,false,,https://www.shizuokabank.co.jp/security/,2026-09-30
+24,45,chiba-bank,千葉銀行|ちばぎん|Chiba Bank,chibabank.co.jp,chibabank.co.jp,bank,false,,https://www.chibabank.co.jp/security/,2026-09-30
+25,45,bank-yokohama,横浜銀行|はまぎん|Bank of Yokohama,boy.co.jp,boy.co.jp,bank,false,,https://www.boy.co.jp/kojin/security/,2026-09-30
+26,45,fukuoka-bank,福岡銀行|ふくぎん|Fukuoka Bank,fukuokabank.co.jp,fukuokabank.co.jp,bank,false,,https://www.fukuokabank.co.jp/security/,2026-09-30
+27,45,nomura-securities,野村證券|野村証券|Nomura Securities,nomura.co.jp,nomura.co.jp,securities,false,,https://www.nomura.co.jp/support/security/,2026-09-30
+28,45,daiwa-securities,大和証券|Daiwa Securities,daiwa.jp,daiwa.jp,securities,false,,https://www.daiwa.jp/security/,2026-09-30
+29,45,smbc-nikko,SMBC日興証券|日興証券|SMBC Nikko,smbcnikko.co.jp,smbcnikko.co.jp,securities,false,,https://www.smbcnikko.co.jp/security/,2026-09-30
+30,45,mizuho-securities,みずほ証券|Mizuho Securities,mizuho-sc.com,mizuho-sc.com,securities,false,,https://www.mizuho-sc.com/security/,2026-09-30
+31,45,mufg-esmart-securities,三菱UFJ eスマート証券|auカブコム証券|カブコム,kabu.com,kabu.com,securities,false,,https://kabu.com/company/security.html,2026-09-30
+32,45,sbi-securities,SBI証券|SBI SECURITIES,sbisec.co.jp,sbisec.co.jp,securities,false,,https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl20&_DataStoreID=DSWPLETmgR001Control&getFlg=on&burl=search_home&cat1=home&cat2=none&dir=info&file=home_security.html,2026-09-30
+33,45,rakuten-securities,楽天証券|Rakuten Securities,rakuten-sec.co.jp,rakuten-sec.co.jp,securities,false,,https://www.rakuten-sec.co.jp/web/security/,2026-09-30
+34,45,matsui-securities,松井証券|Matsui Securities,matsui.co.jp,matsui.co.jp,securities,false,,https://www.matsui.co.jp/security/,2026-09-30
+35,45,monex,マネックス証券|Monex,monex.co.jp,monex.co.jp,securities,false,,https://info.monex.co.jp/security/,2026-09-30
+36,45,paypay-securities,PayPay証券|One Tap BUY,paypay-sec.co.jp,paypay-sec.co.jp,securities,false,,https://www.paypay-sec.co.jp/security/,2026-09-30
+37,45,jcb,JCB|ジェーシービー|MyJCB,jcb.co.jp,jcb.co.jp,credit-card,false,,https://www.jcb.co.jp/security/,2026-09-30
+38,45,smbc-card,三井住友カード|SMBCカード|Vpass,vpass.ne.jp|smbc-card.com,smbc-card.com|vpass.ne.jp,credit-card,false,,https://www.smbc-card.com/mem/service/sec/index.jsp,2026-09-30
+39,45,orico,オリコ|eオリコ|オリコカード|Orico,orico.co.jp,orico.co.jp|orico.jp|orico.tv,credit-card,true,お客さま情報の確認|アカウントの利用停止|アカウントの凍結|カードの利用停止|不正を検知,https://www.orico.co.jp/support/careful/trouble_online/,2026-09-30
+40,45,epos-card,エポスカード|EPOS CARD|エポスNet,eposcard.co.jp,eposcard.co.jp,credit-card,false,,https://www.eposcard.co.jp/security/,2026-09-30
+41,45,saison-card,セゾンカード|SAISON CARD|Netアンサー,saisoncard.co.jp,saisoncard.co.jp,credit-card,false,,https://www.saisoncard.co.jp/customer-support/security/,2026-09-30
+42,45,aeon-card,イオンカード|AEON CARD|イオンスクエアメンバー,aeon.co.jp,aeon.co.jp,credit-card,false,,https://www.aeon.co.jp/security/,2026-09-30
+43,45,d-card,dカード|d CARD|ドコモdカード,d-card.jp|nttdocomo.co.jp,d-card.jp,credit-card,false,,https://dcard.docomo.ne.jp/st/security/,2026-09-30
+44,45,au-pay-card,au PAY カード|au PAY Card,aupaycard.jp,aupaycard.jp,credit-card,false,,https://www.aupaycard.jp/security/,2026-09-30
+45,45,paypay-card,PayPayカード|Yahoo! JAPANカード,paypay-card.co.jp,paypay-card.co.jp,credit-card,false,,https://www.paypay-card.co.jp/security/,2026-09-30
+46,45,amex-jp,アメリカン・エキスプレス|American Express|アメックス,americanexpress.com,americanexpress.com,credit-card,false,,https://www.americanexpress.com/jp/security/,2026-09-30
+47,45,diners-jp,ダイナースクラブ|Diners Club,diners.co.jp,diners.co.jp,credit-card,false,,https://www.diners.co.jp/ja/security.html,2026-09-30
+48,45,lifecard,ライフカード|LIFE CARD|LIFE-Web Desk,lifecard.co.jp,lifecard.co.jp,credit-card,false,,https://www.lifecard.co.jp/howto/security/,2026-09-30
+49,45,jaccs,ジャックス|JACCS|インターコムクラブ,jaccs.co.jp,jaccs.co.jp,credit-card,false,,https://www.jaccs.co.jp/service/support/security/,2026-09-30
+50,45,mufg-card,三菱UFJカード|MUFGカード|MUFG CARD|DCカード|NICOS,cr.mufg.jp|mufgcard.com,mufg.jp|mufgcard.com,credit-card,false,,https://www.cr.mufg.jp/member/security/index.html,2026-09-30
+51,45,toyota-finance,トヨタファイナンス|TS CUBIC CARD|TS CUBIC,toyota-finance.co.jp|ts3card.com,toyota-finance.co.jp|ts3card.com,credit-card,false,,https://tscubic.com/security/,2026-09-30
+52,45,seven-card,セブンカード|セブンカード・プラス|7card,7card.co.jp,7card.co.jp,credit-card,false,,https://www.7card.co.jp/security/,2026-09-30
+53,45,view-card,ビューカード|VIEW CARD|JRE CARD,viewcard.co.jp,viewcard.co.jp,credit-card,false,,https://www.jreast.co.jp/card/security/,2026-09-30
+54,34,rakuten-market,楽天市場|Rakuten Ichiba|楽天ショップ,rakuten.co.jp,rakuten.co.jp,ecommerce,false,,https://www.rakuten.co.jp/,2026-09-30
+55,34,yahoo-japan,Yahoo! JAPAN|ヤフー|ヤフーショッピング|Yahoo!ショッピング,yahoo.co.jp,yahoo.co.jp,ecommerce,false,,https://security.yahoo.co.jp/,2026-09-30
+56,45,mercari,メルカリ|mercari|メルペイ|Merpay,mercari.com,mercari.com,ecommerce,false,,https://help.jp.mercari.com/guide/categories/22/,2026-09-30
+57,34,zozo,ZOZOTOWN|ゾゾタウン|ZOZO,zozo.jp,zozo.jp,ecommerce,false,,https://zozo.jp/,2026-09-30
+58,34,qoo10,Qoo10|キューテン,qoo10.jp,qoo10.jp,ecommerce,false,,https://www.qoo10.jp/,2026-09-30
+59,34,dmm,DMM.com|DMM,dmm.com,dmm.com,ecommerce,false,,https://www.dmm.com/,2026-09-30
+60,34,yodobashi,ヨドバシカメラ|ヨドバシ・ドット・コム|Yodobashi,yodobashi.com,yodobashi.com,ecommerce,false,,https://www.yodobashi.com/,2026-09-30
+61,34,biccamera,ビックカメラ|BicCamera|ビックカメラ.com,biccamera.com,biccamera.com,ecommerce,false,,https://www.biccamera.com/,2026-09-30
+62,34,yamada-denki,ヤマダデンキ|ヤマダ電機|ヤマダウェブコム,yamada-denki.jp,yamada-denki.jp,ecommerce,false,,https://www.yamada-denki.jp/,2026-09-30
+63,34,joshin,Joshin|ジョーシン|上新電機|Joshin webショップ,joshin.co.jp|joshinweb.jp,joshin.co.jp|joshinweb.jp,ecommerce,false,,https://joshinweb.jp/,2026-09-30
+64,34,monotaro,モノタロウ|MonotaRO|モノタロウ.com,monotaro.com,monotaro.com,ecommerce,false,,https://www.monotaro.com/,2026-09-30
+65,34,askul,ASKUL|アスクル|LOHACO|ロハコ,askul.co.jp|lohaco.jp,askul.co.jp|lohaco.jp,ecommerce,false,,https://www.askul.co.jp/,2026-09-30
+66,34,nissen,ニッセン|Nissen,nissen.co.jp,nissen.co.jp,ecommerce,false,,https://www.nissen.co.jp/,2026-09-30
+67,34,bellemaison,ベルメゾン|BELLE MAISON|千趣会,bellemaison.jp,bellemaison.jp,ecommerce,false,,https://www.bellemaison.jp/,2026-09-30
+68,34,au-pay-market,au PAY マーケット|Wowma|ワウマ,wowma.jp,wowma.jp,ecommerce,false,,https://wowma.jp/,2026-09-30
+69,34,japan-post,日本郵便|郵便局|ゆうパック|Japan Post,japanpost.jp|post.japanpost.jp,japanpost.jp|post.japanpost.jp,delivery,false,,https://www.post.japanpost.jp/,2026-09-30
+70,34,seino,西濃運輸|カンガルー便|SEINO,seino.co.jp,seino.co.jp,delivery,false,,https://www.seino.co.jp/,2026-09-30
+71,34,fukuyama-transport,福山通運|フクツー|Fukuyama Transport,fukutsu.co.jp,fukutsu.co.jp,delivery,false,,https://corp.fukutsu.co.jp/,2026-09-30
+72,34,dhl-jp,DHL|DHL Express|DHLジャパン,dhl.com,dhl.com,delivery,false,,https://www.dhl.com/jp-ja/home.html,2026-09-30
+73,34,fedex-jp,FedEx|フェデックス|Federal Express,fedex.com,fedex.com,delivery,false,,https://www.fedex.com/ja-jp/home.html,2026-09-30
+74,45,docomo,NTTドコモ|docomo|ドコモ,docomo.ne.jp|nttdocomo.co.jp|nttdocomo.com,docomo.ne.jp|nttdocomo.co.jp,telecom,false,,https://www.docomo.ne.jp/info/anti_phishing/,2026-09-30
+75,45,au-kddi,KDDI|auサポート|My au|KDDI株式会社,au.com|kddi.com,au.com|kddi.com,telecom,false,,https://www.au.com/support/security/,2026-09-30
+76,45,softbank,ソフトバンク|SoftBank|My SoftBank,softbank.jp|softbank.ne.jp,softbank.jp,telecom,false,,https://www.softbank.jp/security/,2026-09-30
+77,45,rakuten-mobile,楽天モバイル|Rakuten Mobile|my 楽天モバイル,mobile.rakuten.co.jp|rakuten.co.jp,network.mobile.rakuten.co.jp|mobile.rakuten.co.jp,telecom,false,,https://network.mobile.rakuten.co.jp/security/,2026-09-30
+78,34,nifty,@nifty|ニフティ|NIFTY,nifty.com,nifty.com,isp,false,,https://support.nifty.com/support/supinfo/phishing.htm,2026-09-30
+79,34,biglobe,BIGLOBE|ビッグローブ,biglobe.ne.jp,biglobe.ne.jp,isp,false,,https://support.biglobe.ne.jp/security/,2026-09-30
+80,34,ocn,OCN|NTTコミュニケーションズ|OCNメール,ocn.ne.jp|ntt.com,ocn.ne.jp|ntt.com,isp,false,,https://support.ocn.ne.jp/personal/security/,2026-09-30
+81,34,sonet,So-net|ソネット|ソニーネットワークコミュニケーションズ,so-net.ne.jp,so-net.ne.jp,isp,false,,https://www.so-net.ne.jp/security/,2026-09-30
+82,34,iijmio,IIJmio|IIJ|インターネットイニシアティブ,iijmio.jp|iij.ad.jp,iijmio.jp|iij.ad.jp,isp,false,,https://www.iijmio.jp/security/,2026-09-30
+83,34,ymobile,Y!mobile|ワイモバイル|My Y!mobile,ymobile.jp,ymobile.jp,telecom,false,,https://www.ymobile.jp/support/faq/,2026-09-30
+84,34,line,LINE|LINEヤフー|ライン公式アカウント,line.me|linecorp.com,line.me,social,false,,https://guide.line.me/ja/security/,2026-09-30
+85,34,x-twitter,X Corp|X（旧Twitter）|Twitter|ツイッター,x.com|twitter.com,x.com|twitter.com,social,false,,https://help.x.com/ja/safety-and-security,2026-09-30
+86,34,facebook,Facebook|フェイスブック|Meta Facebook,facebookmail.com|facebook.com,facebook.com,social,false,,https://www.facebook.com/help/285695718429403,2026-09-30
+87,34,instagram,Instagram|インスタグラム|インスタ,mail.instagram.com|instagram.com,instagram.com,social,false,,https://help.instagram.com/149494825257596,2026-09-30
+88,34,tiktok,TikTok|ティックトック|TikTok Japan,tiktok.com,tiktok.com,social,false,,https://support.tiktok.com/ja/safety-hc/account-and-user-safety/avoid-fraudulent-message-attacks-on-tiktok,2026-09-30
+89,34,discord,Discord|ディスコード|Discord Support,discord.com,discord.com,social,false,,https://support.discord.com/,2026-09-30
+90,34,linkedin,LinkedIn|リンクトイン|LinkedIn Japan,linkedin.com,linkedin.com,social,false,,https://www.linkedin.com/help/linkedin/answer/a1339264,2026-09-30
+91,34,pinterest,Pinterest|ピンタレスト|Pinterest Japan,pinterest.com,pinterest.com,social,false,,https://help.pinterest.com/ja/article/protect-yourself-from-phishing,2026-09-30
+92,34,whatsapp,WhatsApp|ワッツアップ|WhatsApp Messenger,whatsapp.com,whatsapp.com,social,false,,https://faq.whatsapp.com/1131652977717250,2026-09-30
+93,34,dropbox,Dropbox|ドロップボックス|Dropbox Japan,dropbox.com,dropbox.com,cloud,false,,https://help.dropbox.com/security/phishing-virus-protection,2026-09-30
+94,34,box,Box Support|Box Japan|Boxクラウド,box.com,box.com,cloud,false,,https://support.box.com/,2026-09-30
+95,34,adobe,Adobe|アドビ|Adobe Creative Cloud,adobe.com,adobe.com,cloud,false,,https://helpx.adobe.com/jp/manage-account/kb/identify-genuine-adobe-email.html,2026-09-30
+96,34,zoom,Zoom|Zoom Video Communications|Zoomサポート,zoom.us,zoom.us,cloud,false,,https://support.zoom.com/hc/ja/article?id=zm_kb&sysparm_article=KB0068037,2026-09-30
+97,34,salesforce,Salesforce|セールスフォース|Salesforce Japan,salesforce.com,salesforce.com,cloud,false,,https://trust.salesforce.com/,2026-09-30
+98,45,tepco,東京電力|TEPCO|東京電力エナジーパートナー|くらしTEPCO,tepco.co.jp|tepco-energy-partner.co.jp,tepco.co.jp|tepco-energy-partner.co.jp,utility,false,,https://www.tepco.co.jp/ep/support/security/,2026-09-30
+99,45,tokyo-gas,東京ガス|Tokyo Gas|myTOKYOGAS,tokyo-gas.co.jp,tokyo-gas.co.jp,utility,false,,https://home.tokyo-gas.co.jp/security/,2026-09-30
+100,45,mynumber-portal,マイナポータル|マイナンバーカード|デジタル庁マイナポータル,myna.go.jp,myna.go.jp,government,false,,https://myna.go.jp/,2026-09-30
