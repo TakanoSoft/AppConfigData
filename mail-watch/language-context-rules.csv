@@ -1,0 +1,90 @@
+ID,kind,signal_code,scope,phrase,required_any,excluded_near,window,val,title,detail,enabled,description
+N001,newsletter_marker,,body,メールマガジン,,,0,0,,,true,ニュースレター識別
+N002,newsletter_marker,,body,新着記事,,,0,0,,,true,ニュースレター識別
+N003,newsletter_marker,,body,Pick UPコンテンツ,,,0,0,,,true,ニュースレター識別
+N004,newsletter_marker,,body,Access Ranking,,,0,0,,,true,ニュースレター識別
+N005,newsletter_marker,,body,配信停止,,,0,0,,,true,ニュースレター識別
+N006,newsletter_marker,,body,■発行,,,0,0,,,true,ニュースレター識別
+N007,newsletter_marker,,body,Copyright,,,0,0,,,true,ニュースレター識別
+N008,newsletter_marker,,body,登録情報の確認・変更,,,0,0,,,true,ニュースレター識別
+F001,footer_start,,body,このメールは送信専用,,,0,0,,,true,ニュースレター末尾の開始
+F002,footer_start,,body,●メールマガジンの配信停止について,,,0,0,,,true,ニュースレター末尾の開始
+F003,footer_start,,body,メールマガジンの配信停止について,,,0,0,,,true,ニュースレター末尾の開始
+U001,signal,urgent-language,subject,至急,,,0,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,件名の緊急表現
+U002,signal,urgent-language,subject,緊急,,,0,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,件名の緊急表現
+U003,signal,urgent-language,subject,今すぐ,,,0,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,件名の緊急表現
+U004,signal,urgent-language,subject,本日中,,,0,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,件名の緊急表現
+U005,signal,urgent-language,subject,期限切れ,,,0,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,件名の緊急表現
+U006,signal,urgent-language,subject,利用停止,今すぐ|しないと|までに|回避|解除|ログイン|支払|本人確認|確認|手続き,,100,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,件名の停止予告
+U007,signal,urgent-language,subject,アカウント停止,今すぐ|しないと|までに|回避|解除|ログイン|支払|本人確認|確認|手続き,,100,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,件名の停止予告
+U008,signal,urgent-language,body,至急,入力|ログイン|支払|振込|送金|確認|更新|手続き|対応|連絡,,80,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,本文の緊急操作要求
+U009,signal,urgent-language,body,緊急,入力|ログイン|支払|振込|送金|確認|更新|手続き|対応|連絡,,80,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,本文の緊急操作要求
+U010,signal,urgent-language,body,今すぐ,入力|ログイン|支払|振込|送金|確認|更新|手続き|対応|連絡,,80,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,本文の緊急操作要求
+U011,signal,urgent-language,body,本日中,入力|ログイン|支払|振込|送金|確認|更新|手続き|対応|連絡,,80,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,本文の緊急操作要求
+U012,signal,urgent-language,body,期限切れ,入力|ログイン|支払|振込|送金|確認|更新|手続き|対応|連絡,,80,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,本文の緊急操作要求
+U013,signal,urgent-language,body,利用停止,今すぐ|しないと|までに|回避|解除|ログイン|支払|本人確認|確認してください|手続き,,100,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,本文の停止予告
+U014,signal,urgent-language,body,アカウント停止,今すぐ|しないと|までに|回避|解除|ログイン|支払|本人確認|確認してください|手続き,,100,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,本文の停止予告
+U015,signal,urgent-language,all,urgent,enter|login|pay|confirm|update|respond|contact,,90,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,英語の緊急操作要求
+U016,signal,urgent-language,all,immediately,enter|login|pay|confirm|update|respond|contact,,90,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,英語の緊急操作要求
+U017,signal,urgent-language,all,final warning,enter|login|pay|confirm|update|respond|contact,,120,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,英語の最終警告
+U018,signal,urgent-language,all,account suspended,login|verify|confirm|update|restore,,120,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,英語の停止予告
+U019,signal,urgent-language,all,act now,enter|login|pay|confirm|update|respond|contact,,90,10,対応を急がせています,考える時間を与えず操作させる表現が含まれています。,true,英語の緊急操作要求
+C001,signal,credential-request,all,パスワード,入力|送信|教えて|更新|変更|確認|再設定してください|要求,,100,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,パスワード操作要求
+C002,signal,credential-request,all,暗証番号,入力|送信|教えて|更新|変更|確認|要求,,100,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,暗証番号操作要求
+C003,signal,credential-request,all,認証コード,入力|送信|教えて|確認|要求,,100,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,認証コード操作要求
+C004,signal,credential-request,all,本人確認,してください|必要|お願い|ログイン|入力|手続き|完了|確認,,100,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,本人確認要求
+C005,signal,credential-request,all,ログインしてください,,,0,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,ログイン要求
+C006,signal,credential-request,all,再認証,してください|必要|お願い|ログイン|手続き,,100,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,再認証要求
+C007,signal,credential-request,all,password,enter|send|provide|update|change|confirm|reset|required,,110,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,英語のパスワード要求
+C008,signal,credential-request,all,passcode,enter|send|provide|confirm|required,,110,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,英語の認証コード要求
+C009,signal,credential-request,all,verify your account,,,0,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,英語の本人確認要求
+C010,signal,credential-request,all,sign in,click|please|required|verify|confirm|update,,100,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,英語のログイン要求
+C011,signal,credential-request,all,login,click|please|required|verify|confirm|update|enter,,100,15,認証情報を求めています,パスワード・暗証番号・ログインなどに関する操作要求があります。,true,英語のログイン要求
+P001,signal,payment-request,all,ギフトカード,購入|買って|番号|コード|送って|送信|支払い|用意,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,ギフトカード購入等の要求
+P002,signal,payment-request,all,電子マネー,購入|買って|番号|コード|送って|送信|支払い|用意,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,電子マネー購入等の要求
+P003,signal,payment-request,all,未払い,支払|請求|料金|残高|納付,,100,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,未払い請求
+P004,signal,payment-request,all,請求書,支払|振込|送付|添付|確認|変更,,100,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,請求書操作要求
+P005,signal,payment-request,all,送金,してください|必要|依頼|至急|口座|支払,,100,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,送金要求
+P006,signal,payment-request,all,振込,してください|必要|依頼|至急|口座|支払,,100,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,振込要求
+P007,signal,payment-request,all,当選,手数料|受け取|口座|連絡|入力|支払,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,当選金受取要求
+P008,signal,payment-request,all,還付金,受け取|手続き|口座|ATM|申請|支払,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,還付金受取要求
+P009,signal,payment-request,all,gift card,buy|purchase|number|code|send|payment,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,英語のギフトカード要求
+P010,signal,payment-request,all,wire transfer,send|make|urgent|required|account,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,英語の送金要求
+P011,signal,payment-request,all,invoice attached,pay|payment|transfer|account|confirm,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,英語の請求要求
+P012,signal,payment-request,all,payment overdue,pay|update|account|card|required,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,英語の未払い要求
+P013,signal,payment-request,all,you have won,fee|receive|account|contact|claim|pay,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,英語の当選金要求
+B001,signal,bank-change-request,all,振込先変更,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,振込先変更
+B002,signal,bank-change-request,all,振込口座変更,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,振込口座変更
+B003,signal,bank-change-request,all,口座を変更,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,口座変更
+B004,signal,bank-change-request,all,新しい口座,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,新口座
+B005,signal,bank-change-request,all,支払先変更,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,支払先変更
+B006,signal,bank-change-request,all,請求先変更,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,請求先変更
+B007,signal,bank-change-request,all,change of bank,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,英語の口座変更
+B008,signal,bank-change-request,all,new bank account,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,英語の新口座
+B009,signal,bank-change-request,all,updated payment details,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,英語の支払先変更
+B010,signal,bank-change-request,all,change payment account,,,0,24,振込先・口座情報の変更を求めています,取引先や役員を装う請求書・振込先変更詐欺の可能性があります。既知の電話番号から確認してください。,true,英語の口座変更
+E001,signal,executive-impersonation,all,社長,内密|極秘|他言無用|誰にも言わ|秘密に|至急返信|直接返信|confidential|do not tell|keep this secret|reply only to me,,200,22,役員なりすましの特徴があります,役員・上司を名乗り秘密または直接対応を求める表現があります。,true,社長なりすまし
+E002,signal,executive-impersonation,all,代表取締役,内密|極秘|他言無用|誰にも言わ|秘密に|至急返信|直接返信|confidential|do not tell|keep this secret|reply only to me,,200,22,役員なりすましの特徴があります,役員・上司を名乗り秘密または直接対応を求める表現があります。,true,代表取締役なりすまし
+E003,signal,executive-impersonation,all,役員,内密|極秘|他言無用|誰にも言わ|秘密に|至急返信|直接返信|confidential|do not tell|keep this secret|reply only to me,,200,22,役員なりすましの特徴があります,役員・上司を名乗り秘密または直接対応を求める表現があります。,true,役員なりすまし
+E004,signal,executive-impersonation,all,上司,内密|極秘|他言無用|誰にも言わ|秘密に|至急返信|直接返信|confidential|do not tell|keep this secret|reply only to me,,200,22,役員なりすましの特徴があります,役員・上司を名乗り秘密または直接対応を求める表現があります。,true,上司なりすまし
+E005,signal,executive-impersonation,all,CEO,内密|極秘|他言無用|誰にも言わ|秘密に|至急返信|直接返信|confidential|do not tell|keep this secret|reply only to me,,200,22,役員なりすましの特徴があります,役員・上司を名乗り秘密または直接対応を求める表現があります。,true,CEOなりすまし
+E006,signal,executive-impersonation,all,CFO,内密|極秘|他言無用|誰にも言わ|秘密に|至急返信|直接返信|confidential|do not tell|keep this secret|reply only to me,,200,22,役員なりすましの特徴があります,役員・上司を名乗り秘密または直接対応を求める表現があります。,true,CFOなりすまし
+E007,signal,executive-impersonation,all,社長代理,内密|極秘|他言無用|誰にも言わ|秘密に|至急返信|直接返信|confidential|do not tell|keep this secret|reply only to me,,200,22,役員なりすましの特徴があります,役員・上司を名乗り秘密または直接対応を求める表現があります。,true,社長代理なりすまし
+E008,signal,executive-impersonation,all,経営者,内密|極秘|他言無用|誰にも言わ|秘密に|至急返信|直接返信|confidential|do not tell|keep this secret|reply only to me,,200,22,役員なりすましの特徴があります,役員・上司を名乗り秘密または直接対応を求める表現があります。,true,経営者なりすまし
+D001,signal,communication-diversion,all,電話してください,,,0,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,電話誘導
+D002,signal,communication-diversion,all,お電話ください,,,0,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,電話誘導
+D003,signal,communication-diversion,all,SMS,返信|送信|連絡|移動|登録|認証コード|こちら,,80,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,SMS誘導
+D004,signal,communication-diversion,all,ショートメッセージ,返信|送信|連絡|移動|登録|認証コード|こちら,,80,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,SMS誘導
+D005,signal,communication-diversion,all,LINE,追加|連絡|返信|移動|登録|友だち|こちら,LINEヤフー,80,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,LINE誘導
+D006,signal,communication-diversion,all,ライン追加,,,0,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,LINE誘導
+D007,signal,communication-diversion,all,WhatsApp,add|contact|reply|message|move|join,,100,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,WhatsApp誘導
+D008,signal,communication-diversion,all,Telegram,add|contact|reply|message|move|join,,100,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,Telegram誘導
+D009,signal,communication-diversion,all,チャットへ,移動|連絡|返信|こちら|追加,,80,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,チャット誘導
+D010,signal,communication-diversion,all,call this number,,,0,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,英語の電話誘導
+D011,signal,communication-diversion,all,text me,,,0,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,英語のSMS誘導
+D012,signal,communication-diversion,all,contact me on,,,0,12,メール外の連絡手段へ誘導しています,電話・SMS・LINEなどへ移動させメール側の保護を回避する手口に注意してください。,true,英語の外部連絡誘導
+Q001,signal,qr-instruction,all,QRコード,,,0,8,QRコードの読み取りを求めています,QRコードはリンク先を見えにくくするため読み取ったURLも検査対象にします。,true,QRコード
+Q002,signal,qr-instruction,all,二次元コード,,,0,8,QRコードの読み取りを求めています,QRコードはリンク先を見えにくくするため読み取ったURLも検査対象にします。,true,二次元コード
+Q003,signal,qr-instruction,all,コードを読み取,,,0,8,QRコードの読み取りを求めています,QRコードはリンク先を見えにくくするため読み取ったURLも検査対象にします。,true,コード読取
+Q004,signal,qr-instruction,all,scan the qr,,,0,8,QRコードの読み取りを求めています,QRコードはリンク先を見えにくくするため読み取ったURLも検査対象にします。,true,英語のQR読取
+Q005,signal,qr-instruction,all,scan this code,,,0,8,QRコードの読み取りを求めています,QRコードはリンク先を見えにくくするため読み取ったURLも検査対象にします。,true,英語のコード読取
