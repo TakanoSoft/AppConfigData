@@ -1,34 +1,34 @@
 {
   "schemaVersion": 1,
-  "rulesVersion": "2026.10.05.3",
-  "publishedAt": "2026-10-05T06:58:32.3576547+00:00",
+  "rulesVersion": "2026.10.05.6",
+  "publishedAt": "2026-10-05T08:16:35.8025203+00:00",
   "minimumAppVersion": "1.0.6",
   "vectorizerId": "char-ngram-v1-d512",
   "files": [
     {
       "name": "brand-claim-rules.csv",
-      "sha256": "e163b7f9ed5e656cf205aaa88eceda08d054bed3469eb36d961c1f53a21537e5",
-      "size": 5055
+      "sha256": "a70f97deceb1bab6e6cfd5130c5c58358fd983b7b0a3285cad40f69a3ef36af0",
+      "size": 7554
     },
     {
       "name": "language-context-rules.csv",
-      "sha256": "7ce52543d65bef72ffa402cc82b51c7708b88e666ef68faa6297c3645d28077c",
-      "size": 22750
+      "sha256": "1772c9cf8f3c9f65cd10b2abe465d9721ba347c2b326e746f217eef7a9ef53c1",
+      "size": 39612
     },
     {
       "name": "official-brands.csv",
-      "sha256": "adb14031e06fb9dcab17ee21cb18fff2830699e20d0d33aa379b9441f557ab3a",
-      "size": 17545
+      "sha256": "abbc39b3ec6c66862018b2f3e8436b1d50ed8e96fddae0c645f16a899c427a89",
+      "size": 20137
     },
     {
       "name": "semantic-rules.csv",
-      "sha256": "b21f54593831e0e07d3d573c0ece01ddafdaef0cdaf5abd9423dfb00bdc73ef0",
-      "size": 4889
+      "sha256": "d3470c05475bd4d5f2e3e7224f3488ac711a3a06131e945bce68519b95ddd2cf",
+      "size": 7495
     },
     {
       "name": "semantic-vectors.bin",
-      "sha256": "3ec018f51062d6d855aea50d77edda25fff791a674bd0c29778c58b221d8764b",
-      "size": 49386
+      "sha256": "71743efe9467ddb61daab59433412bed8992b21c5f086d605615b8a53b9d8650",
+      "size": 78170
     }
   ]
 }

@@ -23,3 +23,17 @@ S021,14,brand-mismatch,三菱UFJ銀行インターネットバンキングの利
 S022,10,subscription,サブスクリプションの更新に失敗しました支払い情報を確認してください,,0.68,false,https://www.npa.go.jp/bureau/cyber/countermeasures/phishing.html,2026-10-01
 S023,10,mailbox,メールボックスの容量が上限に達しました認証して容量を拡張してください,,0.67,false,https://www.ipa.go.jp/security/anshin/attention/2021/mgdayori20210921.html,2026-10-01
 S024,11,invoice,請求書を添付しました内容を確認して指定口座へ振り込んでください,,0.68,false,https://www.antiphishing.jp/report/guideline/antiphishing_guideline2026.html,2026-10-01
+S025,13,payment,未払い料金をPayPayで支払ってください,,0.66,false,https://www.antiphishing.jp/news/alert/paypay_20260402.html,2026-10-05
+S026,14,payment,国民年金保険料の未納分をPayPayで納付してください,japan-pension-service,0.62,true,https://www.antiphishing.jp/news/alert/nenkin_20260518.html,2026-10-05
+S027,14,payment,住民税の納付期限ですPayPayで支払ってください,local-government,0.62,true,https://www.antiphishing.jp/news/alert/rtax_20260511.html,2026-10-05
+S028,14,payment,国民健康保険料の未納分をPayPayで納付してください,local-government,0.62,true,https://www.antiphishing.jp/news/alert/kokumin_20260413.html,2026-10-05
+S029,13,credential,登録個人情報を再確認してワンタイム認証を設定してください,,0.65,false,https://www.antiphishing.jp/news/alert/IB_20260410.html,2026-10-05
+S030,15,brand-mismatch,SBIネオトレード証券のパスキー設定を完了してください,sbi-neotrade,0.60,true,https://www.antiphishing.jp/news/alert/sbineotrade_20260417.html,2026-10-05
+S031,15,brand-mismatch,第一生命の未納保険料を支払わないと契約が失効します,daiichi-life,0.60,true,https://www.antiphishing.jp/news/alert/seihoPayPay_20260413.html,2026-10-05
+S032,15,brand-mismatch,日本生命の保険料請求を確認して支払いを完了してください,nippon-life,0.60,true,https://www.nissay.co.jp/emergency/20250917.html,2026-10-05
+S033,16,malware,AndroidアプリをアップデートするためAPKをインストールしてください,,0.64,false,https://www.antiphishing.jp/report/monthly/202608.html,2026-10-05
+S034,14,brand-mismatch,Amazonのお荷物の配送に問題が発生しました確認してください,amazon-jp,0.61,true,https://www.antiphishing.jp/news/alert/isp_20260626.html,2026-10-05
+S035,15,payment,国民年金保険料の未納により財産差押えを執行します,japan-pension-service,0.61,true,https://www.antiphishing.jp/news/alert/nenkin_20260518.html,2026-10-05
+S036,15,brand-mismatch,SBIネオトレード証券の未受領特典が失効します,sbi-neotrade,0.60,true,https://www.antiphishing.jp/news/alert/sbineotrade_20260417.html,2026-10-05
+S037,15,brand-mismatch,e-Taxアプリをインストールして還付金を確認してください,national-tax-agency,0.60,true,https://www.antiphishing.jp/news/alert/etaxmal_20260930.html,2026-10-05
+S038,14,brand-mismatch,PayPayポイントが24時間以内に失効するためログインしてください,paypay-payment,0.60,true,https://paypay.ne.jp/help/c0143/,2026-10-05
