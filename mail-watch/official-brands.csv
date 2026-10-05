@@ -99,3 +99,4 @@ ID,val,key,param_a,mail_domains,web_domains,category,strict,never_sent,source_ur
 98,45,tepco,東京電力|TEPCO|東京電力エナジーパートナー|くらしTEPCO,tepco.co.jp|tepco-energy-partner.co.jp,tepco.co.jp|tepco-energy-partner.co.jp,utility,false,,https://www.tepco.co.jp/ep/support/security/,2026-09-30
 99,45,tokyo-gas,東京ガス|Tokyo Gas|myTOKYOGAS,tokyo-gas.co.jp,tokyo-gas.co.jp,utility,false,,https://home.tokyo-gas.co.jp/security/,2026-09-30
 100,45,mynumber-portal,マイナポータル|マイナンバーカード|デジタル庁マイナポータル,myna.go.jp,myna.go.jp,government,false,,https://myna.go.jp/,2026-09-30
+101,52,national-tax-agency,国税庁|国税局|税務署|e-Tax|eTax|国税電子申告・納税システム,e-tax.nta.go.jp|nta.go.jp,nta.go.jp|e-tax.nta.go.jp,government,true,所得税の還付金受取手続|還付金の振込先等の入力|未納の国税を納付しなければ,https://www.nta.go.jp/information/attention/attention.htm|https://www.e-tax.nta.go.jp/topics/topics_oshirase_mail.htm|https://www.nta.go.jp/about/introduction/torikumi/onlinetool/index.htm,2026-10-05

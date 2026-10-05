@@ -48,6 +48,9 @@ P005,signal,payment-request,all,送金,してください|必要|依頼|至急|�
 P006,signal,payment-request,all,振込,してください|必要|依頼|至急|口座|支払,,100,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,振込要求
 P007,signal,payment-request,all,当選,手数料|受け取|口座|連絡|入力|支払,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,当選金受取要求
 P008,signal,payment-request,all,還付金,受け取|手続き|口座|ATM|申請|支払,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,還付金受取要求
+P014,signal,refund-mention,all,還付金,,,0,8,還付金に関する案内があります,還付金を口実に受取口座や個人情報を求める詐欺があります。送信元を確認してください。,true,還付金への注意
+P015,signal,payout-account-request,all,受取口座,,,0,12,受取口座の指定を求めています,還付金などを口実に口座情報を入力させる手口があります。送信元と手続先を確認してください。,true,受取口座の指定要求
+P016,signal,payout-account-request,all,入金口座,,,0,12,受取口座の指定を求めています,還付金などを口実に口座情報を入力させる手口があります。送信元と手続先を確認してください。,true,入金口座の指定要求
 P009,signal,payment-request,all,gift card,buy|purchase|number|code|send|payment,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,英語のギフトカード要求
 P010,signal,payment-request,all,wire transfer,send|make|urgent|required|account,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,英語の送金要求
 P011,signal,payment-request,all,invoice attached,pay|payment|transfer|account|confirm,,120,18,金銭に関する要求があります,送金・支払い・当選などに伴う金銭操作を求めています。,true,英語の請求要求
