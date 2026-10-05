@@ -39,7 +39,7 @@ ID,val,key,param_a,mail_domains,web_domains,category,strict,never_sent,source_ur
 38,45,smbc-card,三井住友カード|SMBCカード|Vpass,vpass.ne.jp|smbc-card.com,smbc-card.com|vpass.ne.jp,credit-card,false,,https://www.smbc-card.com/mem/service/sec/index.jsp,2026-09-30
 39,45,orico,オリコ|eオリコ|オリコカード|Orico,orico.co.jp,orico.co.jp|orico.jp|orico.tv,credit-card,true,お客さま情報の確認|アカウントの利用停止|アカウントの凍結|カードの利用停止|不正を検知,https://www.orico.co.jp/support/careful/trouble_online/,2026-09-30
 40,45,epos-card,エポスカード|EPOS CARD|エポスNet,eposcard.co.jp,eposcard.co.jp,credit-card,false,,https://www.eposcard.co.jp/security/,2026-09-30
-41,45,saison-card,セゾンカード|SAISON CARD|Netアンサー,saisoncard.co.jp,saisoncard.co.jp,credit-card,false,,https://www.saisoncard.co.jp/customer-support/security/,2026-09-30
+41,52,saison-card,セゾンカード|SAISON CARD|Netアンサー,saisoncard.co.jp|saisonid.com,saisoncard.co.jp|saisonid.com|saisonportal.jp|saison.link|a-q-f.com|pointunyou.jp|smss.jp|smsp.jp|kps.ms|psms.jp|csuc.jp,credit-card,true,ご利用確認のお願い|ポイント失効|有効期限延長手続き,https://faq.saisoncard.co.jp/saison/detail?id=6092|https://www.saisoncard.co.jp/topic/entry/lp_phishing/,2026-10-05
 42,45,aeon-card,イオンカード|AEON CARD|イオンスクエアメンバー,aeon.co.jp,aeon.co.jp,credit-card,false,,https://www.aeon.co.jp/security/,2026-09-30
 43,45,d-card,dカード|d CARD|ドコモdカード,d-card.jp|nttdocomo.co.jp,d-card.jp,credit-card,false,,https://dcard.docomo.ne.jp/st/security/,2026-09-30
 44,45,au-pay-card,au PAY カード|au PAY Card,aupaycard.jp,aupaycard.jp,credit-card,false,,https://www.aupaycard.jp/security/,2026-09-30
