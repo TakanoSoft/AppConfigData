@@ -1,24 +1,24 @@
 {
-  "schemaVersion": 1,
-  "rulesVersion": "2026.10.05.6",
-  "publishedAt": "2026-10-05T08:16:35.8025203+00:00",
-  "minimumAppVersion": "1.0.6",
+  "schemaVersion": 2,
+  "rulesVersion": "2026.10.07.1",
+  "publishedAt": "2026-10-07T08:51:29.5587558+00:00",
+  "minimumAppVersion": "1.0.27",
   "vectorizerId": "char-ngram-v1-d512",
   "files": [
     {
       "name": "brand-claim-rules.csv",
-      "sha256": "a70f97deceb1bab6e6cfd5130c5c58358fd983b7b0a3285cad40f69a3ef36af0",
-      "size": 7554
+      "sha256": "9a8a418a60be14c90f09122d281d16ed6030af04f830d3a3a9240800ecaebb92",
+      "size": 9558
     },
     {
       "name": "language-context-rules.csv",
-      "sha256": "1772c9cf8f3c9f65cd10b2abe465d9721ba347c2b326e746f217eef7a9ef53c1",
-      "size": 39612
+      "sha256": "ba4624da46a48fb5be79c787ed2bd47cdecfecba1da9766841242ddb4bcf3041",
+      "size": 41169
     },
     {
       "name": "official-brands.csv",
-      "sha256": "abbc39b3ec6c66862018b2f3e8436b1d50ed8e96fddae0c645f16a899c427a89",
-      "size": 20137
+      "sha256": "fda93bc2f3b0bf51e683a0055fa62de98b12cdbfbcda198b013074fabb145669",
+      "size": 20398
     },
     {
       "name": "semantic-rules.csv",
@@ -29,6 +29,11 @@
       "name": "semantic-vectors.bin",
       "sha256": "71743efe9467ddb61daab59433412bed8992b21c5f086d605615b8a53b9d8650",
       "size": 78170
+    },
+    {
+      "name": "threat-url-prefixes.bin",
+      "sha256": "9c01bc8cea9339cec52ec708f8701709307035a183db49d6105e796a77620671",
+      "size": 60
     }
   ]
 }
