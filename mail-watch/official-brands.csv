@@ -44,7 +44,7 @@ ID,val,key,param_a,mail_domains,web_domains,category,strict,never_sent,source_ur
 43,45,d-card,dカード|d CARD|ドコモdカード,d-card.jp|nttdocomo.co.jp,d-card.jp,credit-card,false,,https://dcard.docomo.ne.jp/st/security/,2026-09-30
 44,45,au-pay-card,au PAY カード|au PAY Card,aupaycard.jp,aupaycard.jp,credit-card,false,,https://www.aupaycard.jp/security/,2026-09-30
 45,45,paypay-card,PayPayカード|Yahoo! JAPANカード,paypay-card.co.jp,paypay-card.co.jp,credit-card,false,,https://www.paypay-card.co.jp/security/,2026-09-30
-46,45,amex-jp,アメリカン・エキスプレス|American Express|アメックス,americanexpress.com,americanexpress.com,credit-card,false,,https://www.americanexpress.com/jp/security/,2026-09-30
+46,45,amex-jp,アメリカン・エキスプレス|American Express|American Expres|Amexrican Express|アメックス,americanexpress.com|aexp.com|aexpfeedback.com|americanexpress.jp|centurion.com|email.amexnetwork.com,americanexpress.com|travel.americanexpress.co.jp,credit-card,true,年会費免除|儲け話,https://www.americanexpress.com/ja-jp/security/phishing/|https://www.americanexpress.com/jp/customer-service/eapply-faq.html,2026-10-13
 47,45,diners-jp,ダイナースクラブ|Diners Club,diners.co.jp,diners.co.jp,credit-card,false,,https://www.diners.co.jp/ja/security.html,2026-09-30
 48,45,lifecard,ライフカード|LIFE CARD|LIFE-Web Desk,lifecard.co.jp,lifecard.co.jp,credit-card,false,,https://www.lifecard.co.jp/howto/security/,2026-09-30
 49,45,jaccs,ジャックス|JACCS|インターコムクラブ,jaccs.co.jp,jaccs.co.jp,credit-card,false,,https://www.jaccs.co.jp/service/support/security/,2026-09-30

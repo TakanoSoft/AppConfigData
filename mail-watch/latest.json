@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
-  "rulesVersion": "2026.10.13.1",
-  "publishedAt": "2026-10-13T02:58:20.1823554+00:00",
-  "minimumAppVersion": "1.0.37",
+  "rulesVersion": "2026.10.13.2",
+  "publishedAt": "2026-10-13T04:48:21.9451282+00:00",
+  "minimumAppVersion": "1.0.39",
   "vectorizerId": "char-ngram-v1-d512",
   "files": [
     {
@@ -22,8 +22,8 @@
     },
     {
       "name": "official-brands.csv",
-      "sha256": "e6151fe931b482136f24f63251730342c70bdc89ad9438cee759b7a730f51e32",
-      "size": 20783
+      "sha256": "9ad0e3303c4fcc609d119b2d0e7633f1eb940340220c453a9456961e420547e9",
+      "size": 21031
     },
     {
       "name": "semantic-rules.csv",
