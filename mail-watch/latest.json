@@ -1,14 +1,25 @@
 {
-  "schemaVersion": 3,
-  "rulesVersion": "2026.10.14.2",
-  "publishedAt": "2026-10-14T08:34:13.9238473+00:00",
-  "minimumAppVersion": "1.0.43",
+  "schemaVersion": 4,
+  "rulesVersion": "2026.10.15.1",
+  "publishedAt": "2026-10-15T07:27:06.473445+00:00",
+  "minimumAppVersion": "1.0.45",
   "vectorizerId": "char-ngram-v1-d512",
+  "contextVectorizerId": "multilingual-e5-small-int8-v1-d384",
   "files": [
     {
       "name": "brand-claim-rules.csv",
       "sha256": "b347133ffcb7cf2e11258e0a4e12f948f6ec0b50f5e4773612f61794f9e3b49f",
       "size": 13625
+    },
+    {
+      "name": "brand-context-examples.csv",
+      "sha256": "447dbe8da999a0f44adc837ad13bc5e104f8a9a658d22442fdfcb36f615e2392",
+      "size": 3986
+    },
+    {
+      "name": "brand-context-vectors.bin",
+      "sha256": "657289b67e75b9108e6273f57d095feeb225e83963388ad65be9c1cbacfa8b1d",
+      "size": 46437
     },
     {
       "name": "data-breach-watch.csv",
