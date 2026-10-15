@@ -1,14 +1,14 @@
 {
   "schemaVersion": 3,
-  "rulesVersion": "2026.10.13.4",
-  "publishedAt": "2026-10-13T07:03:32.8032787+00:00",
-  "minimumAppVersion": "1.0.39",
+  "rulesVersion": "2026.10.14.2",
+  "publishedAt": "2026-10-14T08:34:13.9238473+00:00",
+  "minimumAppVersion": "1.0.43",
   "vectorizerId": "char-ngram-v1-d512",
   "files": [
     {
       "name": "brand-claim-rules.csv",
-      "sha256": "9a8a418a60be14c90f09122d281d16ed6030af04f830d3a3a9240800ecaebb92",
-      "size": 9558
+      "sha256": "b347133ffcb7cf2e11258e0a4e12f948f6ec0b50f5e4773612f61794f9e3b49f",
+      "size": 13625
     },
     {
       "name": "data-breach-watch.csv",
@@ -22,8 +22,8 @@
     },
     {
       "name": "official-brands.csv",
-      "sha256": "0fbc18e3a4a3893f4867f68fb5dd9855c9fdd312f57cd4c7c7d9f4a2e12a15e7",
-      "size": 24279
+      "sha256": "90acba72d76903ed3bf9a6a74315ff52bc976f971babd4a8ed1c6dded0f0f61b",
+      "size": 24488
     },
     {
       "name": "semantic-rules.csv",
